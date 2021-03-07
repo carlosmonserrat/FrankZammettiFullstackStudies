@@ -1,0 +1,28 @@
+{
+  "name": "frankzammettifullstackstudies",
+  "version": "1.0.0",
+  "description": "Exercises and problem solving based on the book \"Modern Full-Stack Development , Using TypeScript, React, Node.js, Webpack, and Docker\", by Frank Zammetti",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosmonserrat/FrankZammettiFullstackStudies.git"
+  },
+  "keywords": [
+    "node",
+    "react",
+    "docker",
+    "fullstack"
+  ],
+  "author": "Carlos Rojas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosmonserrat/FrankZammettiFullstackStudies/issues"
+  },
+  "homepage": "https://github.com/carlosmonserrat/FrankZammettiFullstackStudies#readme",
+  "dependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
